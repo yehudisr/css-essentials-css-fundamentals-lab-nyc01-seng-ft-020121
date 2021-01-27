@@ -6,7 +6,7 @@ body {
 header {
   text-align: center;
 }
-img {
+figure {
   text-align: center;
 }
 nav a {
@@ -18,7 +18,7 @@ figcaption {
   text-align: center;
   font-size: 11px;
 }
-section p {
+ {
   width: 800px;
   text-align: center;
 }
