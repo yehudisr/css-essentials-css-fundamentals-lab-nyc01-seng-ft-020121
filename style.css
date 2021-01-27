@@ -6,7 +6,7 @@ body {
 header {
   text-align: center;
 }
-figure {
+figure #featured-property {
   text-align: center;
 }
 nav a {
