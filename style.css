@@ -22,6 +22,9 @@ figcaption {
   width: 800px;
   text-align: center;
 }
+section #featured-property {
+  text-align: center;
+}
 div {
   float: left;
   text-align: center;
